@@ -117,3 +117,9 @@ Palms: physical rebound transmitted through a staff
 Lungs: temperature and density of the air you inhale
 
 Do not neglect this. Only reality will never betray you.
+---
+† Ｒｅｌａｔｅｄ： Ｔｈｏｕｇｈｔ Ｂｒｉｄｇｅ
+* [SYOBU-Core-Lite](https://github.com/Spherical-Grid-Lord/SYOBU-Core-Lite)　
+* [Spherical-Grid-Sense](https://github.com/Spherical-Grid-Lord/Spherical-Grid-Sense)
+* [AIss-Grid-Core](https://github.com/Spherical-Grid-Lord/AIss-Grid-Core)
+† ‡ ℵ
